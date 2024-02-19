@@ -1,5 +1,5 @@
 # Build Options
-# Copy and paste to build "qmk compile -kb keebio/bfo9000 -km wwv2"
+# Copy and paste to build "qmk compile -kb keebio/bfo9000 -km woat-elite-pi"
 # Copy and paste to build autocorrect file "qmk generate-autocorrect-data C:\Users\waltw\qmk_firmware\keyboards\keebio\bfo9000\keymaps\wwv2autocorrect_dictionary.txt -kb keebio/bfo9000 -km wwv2"
 
 BOOTMAGIC_ENABLE = yes
